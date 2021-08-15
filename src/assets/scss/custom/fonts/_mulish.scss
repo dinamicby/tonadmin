@@ -1,0 +1,35 @@
+//
+// Mulish fonts
+//
+
+@font-face {
+  font-family: 'Mulish';
+  src: url('../../../fonts/Mulish-Light.ttf');
+  src: local('Nunito Light'), url('../../../fonts/Mulish-Light.ttf') format('truetype');
+  font-weight: 300;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Mulish';
+  src: url('../../../fonts/Mulish-Regular.ttf');
+  src: local('Nunito Regular'), url('../../../fonts/Mulish-regular.ttf') format('truetype');
+  font-weight: 400;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Mulish';
+  src: url('../../../fonts/Mulish-SemiBold.ttf');
+  src: local('Nunito SemiBold'), url('../../../fonts/Mulish-SemiBold.ttf') format('truetype');
+  font-weight: 600;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Mulish';
+  src: url('../../../fonts/Mulish-Bold.ttf');
+  src: local('Mulish Bold'), url('../../../fonts/Mulish-Bold.ttf') format('truetype');
+  font-weight: 700;
+  font-style: normal;
+}
