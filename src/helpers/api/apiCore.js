@@ -1,4 +1,5 @@
 import axios from 'axios';
+import https from 'https';
 
 import { store } from "react-notifications-component";
 
